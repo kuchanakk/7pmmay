@@ -1,0 +1,7 @@
+objrep\HomePageEle.class
+commonmethods\TakeScreenShot.class
+objrep\ProductDetailspage.class
+exceldata\Exceldriven.class
+commonmethods\ExtentRep.class
+commonmethods\TestBase.class
+objrep\BestSellerpage.class
